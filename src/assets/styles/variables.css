@@ -1,0 +1,15 @@
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --nav-highlight-color: #052C86;
+    --highlight: #00B38D;
+    --theme: #1a8fa1;
+    --footer-highlight: #FF744B;
+    --banner-bg: #F2F8F7;
+    --content: #545454;
+    --appointment-input: #5F5F5F;
+    --header: #134E91;
+    --content2 :#0B2A46;
+    --content3 : #226FB5;
+    /* Add more variables as needed */
+}
